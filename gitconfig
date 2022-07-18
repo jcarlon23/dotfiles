@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = james.carlon1984@outlook.com
+	name = James Carlon james.carlon1984@outlook.com
